@@ -123,7 +123,7 @@ function init_rewire_holding_payment_gateway()
                     'title' => __('Title', 'text-domain'),
                     'type' => 'text',
                     'description' => __('This controls the title which the user sees during checkout.', 'text-domain'),
-                    'default' => __('Mi Método de Pago', 'text-domain'),
+                    'default' => __('Rewire Holding Payment Gateway', 'text-domain'),
                     'desc_tip' => true,
                 ),
                 'description' => array(
